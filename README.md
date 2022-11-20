@@ -1,2 +1,2 @@
-# fc-binaries
-FinalCypher Binaries Repository
+# FC-Client-Binaries
+FinalCypher Binaries Pseudo-Repository
